@@ -1,4 +1,4 @@
-fa62ce33ed30633eed6e1289e0d9b02c *DESCRIPTION
+0fdc4922f3e499d1d730c9ac92e4ba7f *DESCRIPTION
 29417f07d23ac7aae97c733590bde629 *NAMESPACE
 ef2044ae4e01ab9f339adf3ea667df9d *R/SCimplify.R
 1e00ec8d509efcb2499501a38be18c10 *R/SCimplify_for_velocity.R
@@ -24,14 +24,13 @@ c86747ce92164c04effc571595e69fe6 *R/supercell_purity.R
 dfd2765e23fae91c1272ddbd6d575386 *R/supercell_rescale.R
 2243d5f296aa52e7c0a28d803d2372ff *R/supercell_silhouette.R
 2cf2bf1e88bf6c36c8da5fc46f326689 *R/supercell_tSNE.R
-c170256563fa3afe7707e97ce90fc327 *R/zzz.R
 05f4475e6165e45149e533012fbb3e65 *README.md
 aa5e5a2cbfaea3d9b6cdbe378ac48cee *build/partial.rdb
 f41700c21232f3ef14c4e1435b7f0079 *build/vignette.rds
 49cc8b465f1d4842753ab5c6dd138a86 *data/cell_lines.rda
 544dd8c49bc45904ebd2ef303fc9a911 *inst/doc/a_SuperCell.R
 884ea2185c2aaf55dca61904ba574798 *inst/doc/a_SuperCell.Rmd
-1db742d10a2217d0a6c558fb7fbc654e *inst/doc/a_SuperCell.html
+a3246aa15af577e31d94fe853bd2950d *inst/doc/a_SuperCell.html
 7e043ec2587de8def765c038fb9a3d74 *inst/doc/b_Combined_vs_independent_sample_processing.R
 f1850f17215432e477897e3837e23a98 *inst/doc/b_Combined_vs_independent_sample_processing.Rmd
 650fc195ac5d08107c046119defa20d0 *inst/doc/b_Combined_vs_independent_sample_processing.html
