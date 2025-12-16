@@ -8,8 +8,8 @@ knitr::opts_chunk$set(
 )
 
 ## ----library, warning=FALSE, eval=FALSE---------------------------------------
-#  if (!requireNamespace("remotes")) install.packages("remotes")
-#  remotes::install_github("GfellerLab/SuperCell")
+# if (!requireNamespace("remotes")) install.packages("remotes")
+# remotes::install_github("GfellerLab/SuperCell")
 
 ## ----load library, warning=FALSE----------------------------------------------
 library(SuperCell)
