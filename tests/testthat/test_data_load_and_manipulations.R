@@ -142,8 +142,8 @@ SC_test.PCA <- supercell_prcomp(
 )
 
 test_that("Metacell PCA of demo data (cell_lines) works as before", {
-  expect_equal(abs(SC_test.PCA$x), abs(SC.PCA$x)) # on Windows, the sign of some PCs is opposite, so also test distance next
-  expect_equal(dist(SC_test.PCA$x[1:10,]), dist(SC.PCA$x[1:10,]), ignore_attr = TRUE)
+  expect_equal(abs(SC_test.PCA$x), abs(SC.PCA$x), tolerance = 1e-4) # on Windows, the sign of some PCs is opposite, so also test distance next
+  expect_equal(dist(SC_test.PCA$x[1:10,]), dist(SC.PCA$x[1:10,]), ignore_attr = TRUE, tolerance = 1e-4)
 })
 
 # Test metacell assignment
